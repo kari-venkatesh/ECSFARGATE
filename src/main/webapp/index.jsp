@@ -1,33 +1,3 @@
-Skip to content
-Product 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-devops4solutions
-/
-ECSDEPLOYMENT
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-ECSDEPLOYMENT/src/main/webapp/index.jsp
-@devops4solutions
-devops4solutions first commit
-Latest commit 5238829 on Mar 26, 2021
- History
- 1 contributor
-38 lines (38 sloc)  1.31 KB
-   
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -66,15 +36,3 @@ Latest commit 5238829 on Mar 26, 2021
         </form>
         </body>
 </html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
